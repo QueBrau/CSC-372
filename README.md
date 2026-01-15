@@ -1,1 +1,1 @@
-# CSC-372
+# CSC-372 - web development github repository.
